@@ -1,0 +1,18 @@
+cod_pais;cod_terra;des_terra;fla_estado;cod_aux;des_sigla;fla_evalua_CCosto;fla_terra_central;des_direccion_fiscal;cod_terra_usu_log;cod_usuario_log;cod_tipo_terra;fla_cheque;fla_proy_esp;fla_obra
+1;0;CONFIGURACION INICIAL;A;0;CTL;False;0;;0;0;0;False;False;True
+1;1;CENTRAL LIMA;A;100;CL;True;1;;0;0;0;False;True;True
+1;2;TERRAS ANDAHUAYLAS;A;120;AHP;False;0;;0;0;2;False;True;True
+1;3;TERRAS AYAVIRI;A;150;AVP;False;0;;0;0;2;False;False;True
+1;4;TERRAS CHICLAYO;A;160;CLP;False;0;;;;0;False;False;True
+1;5;TERRAS MARANGANI;A;170;MCP;False;0;;0;0;2;False;False;True
+1;6;TERRAS ACORA;A;110;PAP;False;0;;0;0;0;False;True;True
+1;7;TERRAS TRUJILLO;A;180;TRP;False;0;;0;0;0;False;False;True
+1;8;TERRAS URCOS CUZCO;A;190;UCP;False;0;;0;0;0;False;False;True
+1;9;TERRAS YUNGUYO;A;200;YPP;False;0;;0;0;0;False;False;True
+1;10;TERRAS AREQUIPA;A;130;AQP;False;0;;0;0;0;False;False;True
+1;11;TERRAS PARURO;A;230;PCP;False;0;;0;0;0;False;False;True
+1;12;COLEGIO AREQUIPA;A;131;CAQP;False;0;;0;0;0;False;False;True
+1;13;CEO AREQUIPA;A;134;CEOA;False;0;;0;0;0;False;False;True
+1;14;CASA HOGAR LIMA;A;220;CHL;False;0;;0;0;0;False;False;False
+1;15;OBRAS PERÚ;A;210;OBP;False;2;;;;0;True;True;True
+1;16;TERRAS LIMA;A;240;SJP;False;0;;0;0;2;False;False;False
